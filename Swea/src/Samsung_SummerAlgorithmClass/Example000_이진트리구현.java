@@ -11,7 +11,7 @@ public class Example000_이진트리구현 {
 		StringBuilder sb = new StringBuilder();
 		int T = Integer.parseInt(br.readLine());
 		for(int i=1; i<=T; i++) {
-			//////////////////////////
+			////////////////////////// 
 			
 			//tree.insertNode(nodeData);
 			
